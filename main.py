@@ -4,7 +4,7 @@ from datetime import datetime
 
 from github import Auth
 
-auth = Auth.Token("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")
+auth = Auth.Token("ghp_******************")
 
 g = Github(auth=auth)
 
