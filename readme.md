@@ -1,6 +1,6 @@
 <li> Used the PyGitHub Library to scrape data on users in Singapore with over 100 followers, cleaned company names, and fetched up to 500 recent repositories per user.
 
-<li> Of the more than users with 1100 public repositories, over 95% repo have zero stars. Users with few repositories still had significant follower counts, indicating influence beyond code contributions.
+<li> Of the more than users with 1100 public repositories, over 95% repo have zero stars and i found our professor <code>sanand0</code>
 
 <li> Developers should explore contributing to highly-starred niche projects, as they offer opportunities for visibility and expertise-building in less competitive areas.
 
