@@ -1,3 +1,5 @@
+# Key Takeaways
+
 <li> Used the PyGitHub Library to scrape data on users in Singapore with over 100 followers, cleaned company names, and fetched up to 500 recent repositories per user.
 
 <li> Of the more than users with 1100 public repositories, over 95% repo have zero stars and i found our professor <code>sanand0</code>
